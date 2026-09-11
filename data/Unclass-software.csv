@@ -1,0 +1,619 @@
+Name,Version,Publisher
+Microsoft Update Health Tools,5.72.0.0,Microsoft Corporation
+Mozilla Firefox (x64 en-US),141,Mozilla
+Mozilla Maintenance Service,141,Mozilla
+Realtek USB Audio,6.4.0.393,Realtek Semiconductor Corp.
+Windows Subsystem for Linux,2.5.9.0,Microsoft Corporation
+.NET for Android Templates (x64),35.0.39.0,Microsoft Corporation
+.NET MAUI SDK (x64),9.0.14.0,Microsoft Corporation
+.NET MAUI SDK (x64),8.0.100.0,Microsoft Corporation
+.NET MAUI Templates (x64),8.0.100.0,Microsoft Corporation
+.NET MAUI Templates (x64),9.0.14.0,Microsoft Corporation
+Adobe Acrobat (64-bit),25.001.20577,Adobe
+Application Verifier x64 External Package,10.1.22000.832,Microsoft
+Application Verifier x64 External Package,10.1.18362.1,Microsoft
+Application Verifier x64 External Package,10.1.19041.685,Microsoft
+Application Verifier x64 External Package (DesktopEditions),10.1.26100.2454,Microsoft
+Application Verifier x64 External Package (DesktopEditions),10.1.22621.3233,Microsoft
+Application Verifier x64 External Package (OnecoreUAP),10.1.22621.3233,Microsoft
+Application Verifier x64 External Package (OnecoreUAP),10.1.26100.2454,Microsoft
+DiagnosticsHub_CollectionService,17.12.35318,Microsoft Corporation
+Docker Desktop,4.40.0,Docker Inc.
+Git,2.49.0,The Git Development Community
+icecap_collection_x64,17.13.35716,Microsoft Corporation
+IIS 10.0 Express,10.0.08608,Microsoft Corporation
+IIS Express Application Compatibility Database for x64,,
+IIS Express Application Compatibility Database for x86,,
+IntelliTraceProfilerProxy,15.0.21225.01,Microsoft Corporation
+Microsoft .NET 8.0 Templates 8.0.407 (x64),32.11.54254,Microsoft Corporation
+Microsoft .NET 9.0 Templates 9.0.201 (x64),36.9.54273,Microsoft Corporation
+Microsoft .NET AppHost Pack - 8.0.14 (x64),64.56.29490,Microsoft Corporation
+Microsoft .NET AppHost Pack - 8.0.14 (x64_arm64),64.56.29490,Microsoft Corporation
+Microsoft .NET AppHost Pack - 8.0.14 (x64_x86),64.56.29490,Microsoft Corporation
+Microsoft .NET AppHost Pack - 9.0.3 (x64),72.12.29501,Microsoft Corporation
+Microsoft .NET AppHost Pack - 9.0.3 (x64_arm64),72.12.29501,Microsoft Corporation
+Microsoft .NET AppHost Pack - 9.0.3 (x64_x86),72.12.29501,Microsoft Corporation
+Microsoft .NET Host - 9.0.3 (x64),72.12.29501,Microsoft Corporation
+Microsoft .NET Host FX Resolver - 9.0.3 (x64),72.12.29501,Microsoft Corporation
+Microsoft .NET Runtime - 8.0.14 (x64),64.56.29490,Microsoft Corporation
+Microsoft .NET Runtime - 9.0.3 (x64),72.12.29501,Microsoft Corporation
+Microsoft .NET SDK 9.0.201 (x64) from Visual Studio,9.2.125.11329,Microsoft Corporation
+Microsoft .NET Standard Targeting Pack - 2.1.0 (x64),24.0.28113,Microsoft Corporation
+Microsoft .NET Targeting Pack - 8.0.14 (x64),64.56.29490,Microsoft Corporation
+Microsoft .NET Targeting Pack - 9.0.3 (x64),72.12.29501,Microsoft Corporation
+Microsoft .NET Toolset 9.0.201 (x64),36.9.21505,Microsoft Corporation
+Microsoft ASP.NET Core 8.0.14 Shared Framework (x64),8.0.14.25112,Microsoft Corporation
+Microsoft ASP.NET Core 8.0.14 Targeting Pack (x64),8.0.14.25112,Microsoft Corporation
+Microsoft ASP.NET Core 9.0.3 Shared Framework (x64),9.0.3.25112,Microsoft Corporation
+Microsoft ASP.NET Core 9.0.3 Targeting Pack (x64),9.0.3.25112,Microsoft Corporation
+Microsoft ASP.NET Core Module for IIS Express,12.2.18292.0,Microsoft Corporation
+Microsoft ASP.NET Core Module V2 for IIS Express,17.0.22116.0,Microsoft Corporation
+Microsoft Azure Authoring Tools - v2.9.7,2.9.8999.45,Microsoft Corporation
+Microsoft Azure Compute Emulator - v2.9.7,2.9.8999.43,Microsoft Corporation
+Microsoft Azure Compute Emulator - v2.9.7,2.9.8999.43,Microsoft Corporation
+Microsoft Azure Libraries for .NET – v2.9,3.0.2404.2502,Microsoft Corporation
+Microsoft Command Line Utilities 15 for SQL Server,15.0.1300.359,Microsoft Corporation
+Microsoft ODBC Driver 17 for SQL Server,17.10.6.1,Microsoft Corporation
+Microsoft SQL Server 2019 LocalDB,15.0.4382.1,Microsoft
+Microsoft System CLR Types for SQL Server 2019,15.0.2000.5,Microsoft Corporation
+Microsoft Teams Meeting Add-in for Microsoft Office,1.25.14602,Microsoft Corporation
+Microsoft Update Health Tools,5.72.0.0,Microsoft Corporation
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.42.34438,14.42.34438,Microsoft Corporation
+Microsoft Visual C++ 2022 X64 Debug Runtime - 14.42.34438,14.42.34438,Microsoft Corporation
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.42.34438,14.42.34438,Microsoft Corporation
+Microsoft Visual Studio Installer,3.13.2069.59209,Microsoft Corporation
+Microsoft Web Deploy 4.0,10.0.8305,Microsoft Corporation
+Microsoft Windows Desktop Runtime - 8.0.14 (x64),64.56.29521,Microsoft Corporation
+Microsoft Windows Desktop Runtime - 9.0.3 (x64),72.12.29522,Microsoft Corporation
+Microsoft Windows Desktop Targeting Pack - 8.0.14 (x64),64.56.29521,Microsoft Corporation
+Microsoft Windows Desktop Targeting Pack - 9.0.3 (x64),72.12.29522,Microsoft Corporation
+Microsoft.Android.Ref.35 (x64),35.0.39.0,Microsoft Corporation
+Microsoft.Android.Runtime.35.android-arm (x64),35.0.39.0,Microsoft Corporation
+Microsoft.Android.Runtime.35.android-arm64 (x64),35.0.39.0,Microsoft Corporation
+Microsoft.Android.Runtime.35.android-x64 (x64),35.0.39.0,Microsoft Corporation
+Microsoft.Android.Runtime.35.android-x86 (x64),35.0.39.0,Microsoft Corporation
+Microsoft.Android.Sdk.Windows (x64),34.0.147.0,Microsoft Corporation
+Microsoft.Android.Sdk.Windows (x64),35.0.39.0,Microsoft Corporation
+Microsoft.AspNetCore.Components.WebView.Maui (x64),9.0.14.0,Microsoft Corporation
+Microsoft.iOS.Ref.net9.0_18.2 (x64),18.2.9180.0,Microsoft Corporation
+Microsoft.iOS.Runtime.ios-arm64.net9.0_18.2 (x64),18.2.9180.0,Microsoft Corporation
+Microsoft.iOS.Runtime.iossimulator-arm64.net9.0_18.2 (x64),18.2.9180.0,Microsoft Corporation
+Microsoft.iOS.Runtime.iossimulator-x64.net9.0_18.2 (x64),18.2.9180.0,Microsoft Corporation
+Microsoft.iOS.Sdk.net8.0_17.0 (x64),17.0.8523.0,Microsoft Corporation
+Microsoft.iOS.Sdk.net8.0_18.0 (x64),18.0.8319.0,Microsoft Corporation
+Microsoft.iOS.Sdk.net9.0_18.0 (x64),18.0.9617.0,Microsoft Corporation
+Microsoft.iOS.Sdk.net9.0_18.2 (x64),18.2.9180.0,Microsoft Corporation
+Microsoft.iOS.Templates (x64),18.2.9180.0,Microsoft Corporation
+Microsoft.iOS.Windows.Sdk.net8.0_17.0 (x64),17.0.8523.0,Microsoft Corporation
+Microsoft.iOS.Windows.Sdk.net8.0_18.0 (x64),18.0.8319.0,Microsoft Corporation
+Microsoft.iOS.Windows.Sdk.net9.0_18.0 (x64),18.0.9617.0,Microsoft Corporation
+Microsoft.iOS.Windows.Sdk.net9.0_18.2 (x64),18.2.9180.0,Microsoft Corporation
+Microsoft.MacCatalyst.Ref.net9.0_18.2 (x64),18.2.9180.0,Microsoft Corporation
+Microsoft.MacCatalyst.Runtime.maccatalyst-arm64.net9.0_18.2 (x64),18.2.9180.0,Microsoft Corporation
+Microsoft.MacCatalyst.Runtime.maccatalyst-x64.net9.0_18.2 (x64),18.2.9180.0,Microsoft Corporation
+Microsoft.MacCatalyst.Sdk.net8.0_17.0 (x64),17.0.8523.0,Microsoft Corporation
+Microsoft.MacCatalyst.Sdk.net8.0_18.0 (x64),18.0.8319.0,Microsoft Corporation
+Microsoft.MacCatalyst.Sdk.net9.0_18.0 (x64),18.0.9617.0,Microsoft Corporation
+Microsoft.MacCatalyst.Sdk.net9.0_18.2 (x64),18.2.9180.0,Microsoft Corporation
+Microsoft.MacCatalyst.Templates (x64),18.2.9180.0,Microsoft Corporation
+Microsoft.Maui.Controls (x64),9.0.14.0,Microsoft Corporation
+Microsoft.Maui.Controls.Build.Tasks (x64),9.0.14.0,Microsoft Corporation
+Microsoft.Maui.Controls.Compatibility (x64),9.0.14.0,Microsoft Corporation
+Microsoft.Maui.Controls.Core (x64),9.0.14.0,Microsoft Corporation
+Microsoft.Maui.Controls.Xaml (x64),9.0.14.0,Microsoft Corporation
+Microsoft.Maui.Core (x64),9.0.14.0,Microsoft Corporation
+Microsoft.Maui.Essentials (x64),9.0.14.0,Microsoft Corporation
+Microsoft.Maui.Graphics (x64),9.0.14.0,Microsoft Corporation
+Microsoft.Maui.Graphics.Win2D.WinUI.Desktop (x64),9.0.14.0,Microsoft Corporation
+Microsoft.Maui.Resizetizer (x64),9.0.14.0,Microsoft Corporation
+Microsoft.NET.Runtime.MonoAOTCompiler.Task (x64),9.0.3.0,Microsoft Corporation
+Microsoft.NET.Runtime.MonoAOTCompiler.Task (x64),8.0.14.0,Microsoft Corporation
+Microsoft.NET.Runtime.MonoTargets.Sdk (x64),9.0.3.0,Microsoft Corporation
+Microsoft.NET.Runtime.MonoTargets.Sdk (x64),8.0.14.0,Microsoft Corporation
+Microsoft.NET.Sdk.Android.Manifest-9.0.100 (x64),35.0.39,Microsoft Corporation
+Microsoft.NET.Sdk.Aspire.Manifest-8.0.100 (x64),64.136.23253,Microsoft Corporation
+Microsoft.NET.Sdk.iOS.Manifest-9.0.100 (x64),18.2.9180,Microsoft Corporation
+Microsoft.NET.Sdk.MacCatalyst.Manifest-9.0.100 (x64),18.2.9180,Microsoft Corporation
+Microsoft.NET.Sdk.macOS.Manifest-9.0.100 (x64),15.2.9180,Microsoft Corporation
+Microsoft.NET.Sdk.Maui.Manifest-9.0.100 (x64),9.0.14,Microsoft Corporation
+Microsoft.NET.Sdk.tvOS.Manifest-9.0.100 (x64),18.2.9180,Microsoft Corporation
+Microsoft.NET.Workload.Emscripten.Current.Manifest (x64),72.48.29394,Microsoft Corporation
+Microsoft.NET.Workload.Emscripten.net6.Manifest (x64),72.48.29394,Microsoft Corporation
+Microsoft.NET.Workload.Emscripten.net7.Manifest (x64),72.48.29394,Microsoft Corporation
+Microsoft.NET.Workload.Emscripten.net8.Manifest (x64),72.48.29394,Microsoft Corporation
+Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest (x64),72.0.29501,Microsoft Corporation
+Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest (x64),72.0.29501,Microsoft Corporation
+Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest (x64),72.0.29501,Microsoft Corporation
+Microsoft.NET.Workload.Mono.Toolchain.net8.Manifest (x64),72.0.29501,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-arm (x64),9.0.3.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-arm (x64),8.0.14.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-arm64 (x64),8.0.14.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-arm64 (x64),9.0.3.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-x64 (x64),8.0.14.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-x64 (x64),9.0.3.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-x86 (x64),9.0.3.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-x86 (x64),8.0.14.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.android-arm (x64),9.0.3.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.android-arm (x64),8.0.14.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.android-arm64 (x64),8.0.14.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.android-arm64 (x64),9.0.3.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.android-x64 (x64),9.0.3.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.android-x64 (x64),8.0.14.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.android-x86 (x64),8.0.14.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.android-x86 (x64),9.0.3.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.ios-arm64 (x64),8.0.14.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.ios-arm64 (x64),9.0.3.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.iossimulator-arm64 (x64),8.0.14.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.iossimulator-arm64 (x64),9.0.3.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.iossimulator-x64 (x64),9.0.3.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.iossimulator-x64 (x64),8.0.14.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.maccatalyst-arm64 (x64),9.0.3.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.maccatalyst-arm64 (x64),8.0.14.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.maccatalyst-x64 (x64),8.0.14.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.maccatalyst-x64 (x64),9.0.3.0,Microsoft Corporation
+Mozilla Firefox (x64 en-US),141,Microsoft Corporation
+Mozilla Maintenance Service,136.0.3,Mozilla
+Python 3.13.0 Add to Path (64-bit),3.13.150.0,Mozilla
+Python 3.13.0 Core Interpreter (64-bit),3.13.150.0,Python Software Foundation
+Python 3.13.0 Development Libraries (64-bit),3.13.150.0,Python Software Foundation
+Python 3.13.0 Documentation (64-bit),3.13.150.0,Python Software Foundation
+Python 3.13.0 Executables (64-bit),3.13.150.0,Python Software Foundation
+Python 3.13.0 pip Bootstrap (64-bit),3.13.150.0,Python Software Foundation
+Python 3.13.0 Standard Library (64-bit),3.13.150.0,Python Software Foundation
+Python 3.13.0 Tcl/Tk Support (64-bit),3.13.150.0,Python Software Foundation
+Python 3.13.0 Test Suite (64-bit),3.13.150.0,Python Software Foundation
+Realtek USB Audio,6.4.0.393,Python Software Foundation
+SteelSeries GG 90.0.0,90.0.0,Realtek Semiconductor Corp.
+Unity Hub 2.4.4,2.4.4,SteelSeries ApS
+Universal CRT Tools x64,10.1.26100.2454,Unity Technologies Inc.
+VS JIT Debugger,17.0.157.0,Microsoft Corporation
+VS Script Debugging Common,17.0.157.0,Microsoft Corporation
+VS WCF Debugging,17.0.157.0,Microsoft Corporation
+vs_communityx64msi,17.13.35716,Microsoft Corporation
+vs_devenx64vmsi,17.13.35710,Microsoft Corporation
+vs_Graphics_Singletonx64,17.13.35716,Microsoft Corporation
+vs_minshellinteropx64msi,17.13.35710,Microsoft Corporation
+vs_minshellx64msi,17.13.35729,Microsoft Corporation
+Windows App Certification Kit Native Components,10.1.26100.2454,Microsoft Corporation
+Windows SDK DirectX x64 Remote,10.1.26100.2454,Microsoft Corporation
+Windows Subsystem for Linux,,Microsoft Corporation
+Microsoft Update Health Tools,5.72.0.0,Microsoft Corporation
+Docker Desktop,4.43.2,Microsoft Corporation
+Git,2.50.1,Docker Inc.
+Microsoft Update Health Tools,5.72.0.0,The Git Development Community
+Pen Settings Service,7.7.1.86,Microsoft Corporation
+Python 3.13.5 Add to Path (64-bit),3.13.5150.0,Wacom Technology Corp.
+Python 3.13.5 Core Interpreter (64-bit),3.13.5150.0,Python Software Foundation
+Python 3.13.5 Development Libraries (64-bit),3.13.5150.0,Python Software Foundation
+Python 3.13.5 Documentation (64-bit),3.13.5150.0,Python Software Foundation
+Python 3.13.5 Executables (64-bit),3.13.5150.0,Python Software Foundation
+Python 3.13.5 pip Bootstrap (64-bit),3.13.5150.0,Python Software Foundation
+Python 3.13.5 Standard Library (64-bit),3.13.5150.0,Python Software Foundation
+Python 3.13.5 Tcl/Tk Support (64-bit),3.13.5150.0,Python Software Foundation
+Python 3.13.5 Test Suite (64-bit),3.13.5150.0,Python Software Foundation
+Realtek USB Audio,6.4.0.393,Python Software Foundation
+Windows Subsystem for Linux,2.5.9.0,Realtek Semiconductor Corp.
+Adobe Acrobat (64-bit),25.001.20577,Microsoft Corporation
+Docker Desktop,4.38.0,Adobe
+Git,2.46.0,Docker Inc.
+InstallRoot,5.6,The Git Development Community
+Microsoft .NET Host - 6.0.32 (x64),48.128.16743,DoD PKE
+Microsoft .NET Host FX Resolver - 6.0.32 (x64),48.128.16743,Microsoft Corporation
+Microsoft .NET Runtime - 6.0.32 (x64),48.128.16743,Microsoft Corporation
+Microsoft Teams Meeting Add-in for Microsoft Office,1.25.14602,Microsoft Corporation
+Microsoft Update Health Tools,5.72.0.0,Microsoft
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.36.32532,14.36.32532,Microsoft Corporation
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.36.32532,14.36.32532,Microsoft Corporation
+Microsoft Windows Desktop Runtime - 6.0.32 (x64),48.128.16742,Microsoft Corporation
+Nessus Agent (x64),10.8.5.20039,Microsoft Corporation
+Pen Settings Service,7.7.1.86,Tenable, Inc.
+Python 3.12.7 Add to Path (64-bit),3.12.7150.0,Wacom Technology Corp.
+Python 3.12.7 Core Interpreter (64-bit),3.12.7150.0,Python Software Foundation
+Python 3.12.7 Development Libraries (64-bit),3.12.7150.0,Python Software Foundation
+Python 3.12.7 Documentation (64-bit),3.12.7150.0,Python Software Foundation
+Python 3.12.7 Executables (64-bit),3.12.7150.0,Python Software Foundation
+Python 3.12.7 pip Bootstrap (64-bit),3.12.7150.0,Python Software Foundation
+Python 3.12.7 Standard Library (64-bit),3.12.7150.0,Python Software Foundation
+Python 3.12.7 Tcl/Tk Support (64-bit),3.12.7150.0,Python Software Foundation
+Python 3.12.7 Test Suite (64-bit),3.12.7150.0,Python Software Foundation
+Realtek USB Audio,6.4.0.393,Python Software Foundation
+SCAP Compliance Checker 5.10.1,5.10.1,Realtek Semiconductor Corp.
+VMware Horizon Client,8.13.0.8174,NIWC Atlantic
+VMware Horizon HTML5 Multimedia Redirection Client,8.13.0,VMware, Inc.
+Windows Subsystem for Linux,2.2.4.0,VMware, Inc.
+Adobe Acrobat (64-bit),25.001.20577,Microsoft Corporation
+Amazon WorkSpaces,5.10.0.4196,Adobe
+Amazon WorkSpaces,5.28.0.5487,Amazon Web Services, Inc
+Application Verifier x64 External Package,10.1.19041.5609,Amazon Web Services, Inc
+Docker Desktop,4.43.2,Microsoft
+Git,2.49.0,Docker Inc.
+InstallRoot,5.5,The Git Development Community
+Java(TM) SE Development Kit 17.0.12 (64-bit),17.0.12.0,DoD PKE
+Microsoft .NET Host - 6.0.36 (x64),48.144.23141,Oracle Corporation
+Microsoft .NET Host - 8.0.18 (x64),64.72.35889,Microsoft Corporation
+Microsoft .NET Host FX Resolver - 6.0.36 (x64),48.144.23141,Microsoft Corporation
+Microsoft .NET Host FX Resolver - 8.0.18 (x64),64.72.35889,Microsoft Corporation
+Microsoft .NET Runtime - 6.0.36 (x64),48.144.23141,Microsoft Corporation
+Microsoft .NET Runtime - 8.0.18 (x64),64.72.35889,Microsoft Corporation
+Microsoft 365 Apps for enterprise - en-us,16.0.18827.20202,Microsoft Corporation
+Microsoft Teams Meeting Add-in for Microsoft Office,1.24.19202,Microsoft Corporation
+Microsoft Update Health Tools,5.72.0.0,Microsoft
+Microsoft Visual C++ 2019 X64 Debug Runtime - 14.29.30157,14.29.30157,Microsoft Corporation
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.44.35211,14.44.35211,Microsoft Corporation
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.44.35211,14.44.35211,Microsoft Corporation
+Microsoft Visual Studio Installer,3.14.2075.50697,Microsoft Corporation
+Microsoft Windows Desktop Runtime - 6.0.36 (x64),48.144.23186,Microsoft Corporation
+Microsoft Windows Desktop Runtime - 8.0.18 (x64),64.72.35986,Microsoft Corporation
+Nessus Agent (x64),10.8.5.20039,Microsoft Corporation
+Node.js,22.17.0,Tenable, Inc.
+Office 16 Click-to-Run Extensibility Component,16.0.18827.20102,Node.js Foundation
+Office 16 Click-to-Run Licensing Component,16.0.18827.20202,Microsoft Corporation
+Oracle VirtualBox 7.1.10,7.1.10,Microsoft Corporation
+PowerShell 7-x64,7.5.2.0,Oracle and/or its affiliates
+Python 3.12.2 Core Interpreter (64-bit),3.12.2150.0,Microsoft Corporation
+Python 3.12.2 Development Libraries (64-bit),3.12.2150.0,Python Software Foundation
+Python 3.12.2 Documentation (64-bit),3.12.2150.0,Python Software Foundation
+Python 3.12.2 Executables (64-bit),3.12.2150.0,Python Software Foundation
+Python 3.12.2 pip Bootstrap (64-bit),3.12.2150.0,Python Software Foundation
+Python 3.12.2 Standard Library (64-bit),3.12.2150.0,Python Software Foundation
+Python 3.12.2 Tcl/Tk Support (64-bit),3.12.2150.0,Python Software Foundation
+Python 3.12.2 Test Suite (64-bit),3.12.2150.0,Python Software Foundation
+Python 3.13.5 Core Interpreter (64-bit),3.13.5150.0,Python Software Foundation
+Python 3.13.5 Development Libraries (64-bit),3.13.5150.0,Python Software Foundation
+Python 3.13.5 Documentation (64-bit),3.13.5150.0,Python Software Foundation
+Python 3.13.5 Executables (64-bit),3.13.5150.0,Python Software Foundation
+Python 3.13.5 pip Bootstrap (64-bit),3.13.5150.0,Python Software Foundation
+Python 3.13.5 Standard Library (64-bit),3.13.5150.0,Python Software Foundation
+Python 3.13.5 Tcl/Tk Support (64-bit),3.13.5150.0,Python Software Foundation
+Python 3.13.5 Test Suite (64-bit),3.13.5150.0,Python Software Foundation
+Realtek USB Audio,6.4.0.393,Python Software Foundation
+SCAP Compliance Checker 5.10.1,5.10.1,Realtek Semiconductor Corp.
+Universal CRT Tools x64,10.1.19041.5609,NIWC Atlantic
+VMware Horizon Client,8.13.1.16218,Microsoft Corporation
+VMware Horizon HTML5 Multimedia Redirection Client,8.13.1,VMware, Inc.
+VS Script Debugging Common,16.0.102.0,VMware, Inc.
+Windows App Certification Kit Native Components,10.1.19041.5609,Microsoft Corporation
+Windows SDK DirectX x64 Remote,10.1.19041.5609,Microsoft Corporation
+Windows Subsystem for Linux,2.4.12.0,Microsoft Corporation
+Adobe Acrobat (64-bit),25.001.20577,Microsoft Corporation
+Android Studio,2024.3,Adobe
+Docker Desktop,4.43.2,Google LLC
+Git,2.47.1.2,Docker Inc.
+HP USB-C Dock G5 Firmware Installer,1.0.22.0,The Git Development Community
+InstallRoot,5.6,HP Inc.
+Microsoft Office LTSC Professional Plus 2024 - en-us,16.0.17932.20428,DoD PKE
+Microsoft OneDrive,25.127.0701.0006,Microsoft Corporation
+Microsoft Project Professional 2024 - en-us,16.0.17932.20428,Microsoft Corporation
+Microsoft Teams Meeting Add-in for Microsoft Office,1.25.14205,Microsoft Corporation
+Microsoft Update Health Tools,5.72.0.0,Microsoft
+Microsoft Visio LTSC Professional 2024 - en-us,16.0.17932.20428,Microsoft Corporation
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.42.34433,14.42.34433,Microsoft Corporation
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.42.34433,14.42.34433,Microsoft Corporation
+Nessus Agent (x64),10.8.5.20039,Microsoft Corporation
+Node.js,20.18.2,Tenable, Inc.
+Office 16 Click-to-Run Extensibility Component,16.0.17928.20216,Node.js Foundation
+Office 16 Click-to-Run Licensing Component,16.0.17932.20428,Microsoft Corporation
+Pen Settings Service,7.7.1.86,Microsoft Corporation
+Python 3.13.1 Add to Path (64-bit),3.13.1150.0,Wacom Technology Corp.
+Python 3.13.1 Core Interpreter (64-bit),3.13.1150.0,Python Software Foundation
+Python 3.13.1 Development Libraries (64-bit),3.13.1150.0,Python Software Foundation
+Python 3.13.1 Documentation (64-bit),3.13.1150.0,Python Software Foundation
+Python 3.13.1 Executables (64-bit),3.13.1150.0,Python Software Foundation
+Python 3.13.1 pip Bootstrap (64-bit),3.13.1150.0,Python Software Foundation
+Python 3.13.1 Standard Library (64-bit),3.13.1150.0,Python Software Foundation
+Python 3.13.1 Tcl/Tk Support (64-bit),3.13.1150.0,Python Software Foundation
+Python 3.13.1 Test Suite (64-bit),3.13.1150.0,Python Software Foundation
+SCAP Compliance Checker 5.10.1,5.10.1,Python Software Foundation
+Windows Subsystem for Linux,2.4.11.0,NIWC Atlantic
+Adobe Acrobat (64-bit),25.001.20577,Microsoft Corporation
+Docker Desktop,4.40.0,Adobe
+Git,2.49.0,Docker Inc.
+Microsoft Teams Meeting Add-in for Microsoft Office,1.25.14602,The Git Development Community
+Microsoft Update Health Tools,5.72.0.0,Microsoft
+Node.js,22.17.0,Microsoft Corporation
+Pen Settings Service,7.7.1.86,Node.js Foundation
+Realtek USB Audio,6.4.0.393,Wacom Technology Corp.
+Windows Subsystem for Linux,2.4.13.0,Realtek Semiconductor Corp.
+7-Zip 24.09 (x64),24.09,Microsoft Corporation
+Adobe Acrobat (64-bit),25.001.20577,Igor Pavlov
+Application Verifier x64 External Package,10.1.19041.685,Adobe
+Docker Desktop,4.42.0,Microsoft
+Git,2.48.1,Docker Inc.
+InstallRoot,5.6,The Git Development Community
+InstallRoot,5.5,DoD PKE
+Java 8 Update 451 (64-bit),8.0.4510.10,DoD PKE
+Justinmind,10.0.4,Oracle Corporation
+Microsoft .NET Host - 6.0.22 (x64),48.88.905,Justinmind
+Microsoft .NET Host FX Resolver - 6.0.22 (x64),48.88.905,Microsoft Corporation
+Microsoft .NET Runtime - 6.0.22 (x64),48.88.905,Microsoft Corporation
+Microsoft Teams Meeting Add-in for Microsoft Office,1.24.19202,Microsoft Corporation
+Microsoft Update Health Tools,5.72.0.0,Microsoft
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664,12.0.40664,Microsoft Corporation
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664,12.0.40664,Microsoft Corporation
+Microsoft Visual C++ 2019 X64 Debug Runtime - 14.29.30139,14.29.30139,Microsoft Corporation
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.36.32532,14.36.32532,Microsoft Corporation
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.36.32532,14.36.32532,Microsoft Corporation
+Microsoft Visual Studio Installer,3.5.2150.18781,Microsoft Corporation
+Microsoft Windows Desktop Runtime - 6.0.22 (x64),48.88.914,Microsoft Corporation
+MongoDB 6.0.7 2008R2Plus SSL (64 bit),6.0.7,Microsoft Corporation
+Mozilla Firefox (x64 en-US),127,MongoDB Inc.
+Mozilla Maintenance Service,127,Mozilla
+Nessus Agent (x64),10.8.5.20039,Mozilla
+Node.js,22.14.0,Tenable, Inc.
+Oracle VirtualBox 7.1.6,7.1.6,Node.js Foundation
+Pen Settings Service,7.7.1.86,Oracle and/or its affiliates
+Python 3.11.3 Add to Path (64-bit),3.11.3150.0,Wacom Technology Corp.
+Python 3.11.3 Core Interpreter (64-bit),3.11.3150.0,Python Software Foundation
+Python 3.11.3 Development Libraries (64-bit),3.11.3150.0,Python Software Foundation
+Python 3.11.3 Documentation (64-bit),3.11.3150.0,Python Software Foundation
+Python 3.11.3 Executables (64-bit),3.11.3150.0,Python Software Foundation
+Python 3.11.3 pip Bootstrap (64-bit),3.11.3150.0,Python Software Foundation
+Python 3.11.3 Standard Library (64-bit),3.11.3150.0,Python Software Foundation
+Python 3.11.3 Tcl/Tk Support (64-bit),3.11.3150.0,Python Software Foundation
+Python 3.11.3 Test Suite (64-bit),3.11.3150.0,Python Software Foundation
+Python 3.11.3 Utility Scripts (64-bit),3.11.3150.0,Python Software Foundation
+Python 3.13.2 Add to Path (64-bit),3.13.2150.0,Python Software Foundation
+Python 3.13.2 Core Interpreter (64-bit),3.13.2150.0,Python Software Foundation
+Python 3.13.2 Development Libraries (64-bit),3.13.2150.0,Python Software Foundation
+Python 3.13.2 Documentation (64-bit),3.13.2150.0,Python Software Foundation
+Python 3.13.2 Executables (64-bit),3.13.2150.0,Python Software Foundation
+Python 3.13.2 pip Bootstrap (64-bit),3.13.2150.0,Python Software Foundation
+Python 3.13.2 Standard Library (64-bit),3.13.2150.0,Python Software Foundation
+Python 3.13.2 Tcl/Tk Support (64-bit),3.13.2150.0,Python Software Foundation
+Python 3.13.2 Test Suite (64-bit),3.13.2150.0,Python Software Foundation
+QGIS 3.34.10 'Prizren',3.34.10,Python Software Foundation
+Realtek USB Audio,6.4.0.393,QGIS.org
+SCAP Compliance Checker 5.10.1,5.10.1,Realtek Semiconductor Corp.
+The Jackbox Party Pack 3,,NIWC Atlantic
+Universal CRT Tools x64,10.1.19041.685,Jackbox Games, Inc.
+VirtViewer 11.0-256 (64-bit),11.0.256,Microsoft Corporation
+VMware Horizon Client,8.11.1.41306,Virt Viewer Project
+VMware Horizon HTML5 Multimedia Redirection Client,8.11.0,VMware, Inc.
+VMware Horizon Media Redirection for Microsoft Teams,8.11.0,VMware, Inc.
+Wallpaper Engine,,VMware, Inc.
+Windows App Certification Kit Native Components,10.1.19041.685,Wallpaper Engine Team
+Windows SDK DirectX x64 Remote,10.1.19041.685,Microsoft Corporation
+Windows Subsystem for Linux,2.5.9.0,Microsoft Corporation
+Adobe Acrobat (64-bit),25.001.20577,Microsoft Corporation
+Application Verifier x64 External Package,10.1.19041.685,Adobe
+Docker Desktop,4.41.2,Microsoft
+Git,2.49.0,Docker Inc.
+Microsoft Teams Meeting Add-in for Microsoft Office,1.25.14602,The Git Development Community
+Microsoft Update Health Tools,5.72.0.0,Microsoft
+Microsoft Visual C++ 2019 X64 Debug Runtime - 14.29.30157,14.29.30157,Microsoft Corporation
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.42.34438,14.42.34438,Microsoft Corporation
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.42.34438,14.42.34438,Microsoft Corporation
+Microsoft Visual Studio Installer,3.13.2069.59209,Microsoft Corporation
+Node.js,22.14.0,Microsoft Corporation
+Python 3.13.2 Add to Path (64-bit),3.13.2150.0,Node.js Foundation
+Python 3.13.2 Core Interpreter (64-bit),3.13.2150.0,Python Software Foundation
+Python 3.13.2 Development Libraries (64-bit),3.13.2150.0,Python Software Foundation
+Python 3.13.2 Documentation (64-bit),3.13.2150.0,Python Software Foundation
+Python 3.13.2 Executables (64-bit),3.13.2150.0,Python Software Foundation
+Python 3.13.2 pip Bootstrap (64-bit),3.13.2150.0,Python Software Foundation
+Python 3.13.2 Standard Library (64-bit),3.13.2150.0,Python Software Foundation
+Python 3.13.2 Tcl/Tk Support (64-bit),3.13.2150.0,Python Software Foundation
+Python 3.13.2 Test Suite (64-bit),3.13.2150.0,Python Software Foundation
+Realtek USB Audio,6.4.0.393,Python Software Foundation
+Universal CRT Tools x64,10.1.19041.685,Realtek Semiconductor Corp.
+Windows App Certification Kit Native Components,10.1.19041.685,Microsoft Corporation
+Windows PC Health Check,4.0.2410.23001,Microsoft Corporation
+Windows SDK DirectX x64 Remote,10.1.19041.685,Microsoft Corporation
+Windows Subsystem for Linux,2.4.12.0,Microsoft Corporation
+Adobe Acrobat (64-bit),25.001.20577,Microsoft Corporation
+Dell Command | Update for Windows Universal,5.1.0,Adobe
+Dell Core Services,1.3.371.1,Dell Inc.
+Dell Display Manager 2.1,2.1.1.37,Dell, Inc.
+Dell Optimizer,4.1.351.0,Dell Inc.
+Dell Pair,1.2.2,Dell
+Dell Peripheral Manager,1.6.7,Dell Inc.
+Dell SupportAssist OS Recovery Plugin for Dell Update,5.5.9.18925,Dell Inc.
+Dell SupportAssist Remediation,5.5.9.18925,Dell Inc.
+Dell Trusted Device Agent,5.9.8.0,Dell Inc.
+DellOptimizerUI,4.1.351.0,Dell Technologies, Inc.
+Git,2.49.0,Dell
+Intel(R) Connectivity Performance Suite for Dell,21.23.5129,The Git Development Community
+Microsoft .NET Host - 6.0.26 (x64),48.104.7000,Intel Corporation
+Microsoft .NET Host - 8.0.11 (x64),64.44.23191,Microsoft Corporation
+Microsoft .NET Host FX Resolver - 6.0.26 (x64),48.104.7000,Microsoft Corporation
+Microsoft .NET Host FX Resolver - 8.0.11 (x64),64.44.23191,Microsoft Corporation
+Microsoft .NET Runtime - 6.0.26 (x64),48.104.7000,Microsoft Corporation
+Microsoft .NET Runtime - 8.0.11 (x64),64.44.23191,Microsoft Corporation
+Microsoft 365 - en-us,16.0.18925.20184,Microsoft Corporation
+Microsoft 365 - es-es,16.0.18925.20184,Microsoft Corporation
+Microsoft 365 - fr-fr,16.0.18925.20184,Microsoft Corporation
+Microsoft 365 - pt-br,16.0.18925.20184,Microsoft Corporation
+Microsoft OneNote - en-us,16.0.18925.20184,Microsoft Corporation
+Microsoft OneNote - es-es,16.0.18925.20184,Microsoft Corporation
+Microsoft OneNote - fr-fr,16.0.18925.20184,Microsoft Corporation
+Microsoft OneNote - pt-br,16.0.18925.20184,Microsoft Corporation
+Microsoft Update Health Tools,5.72.0.0,Microsoft Corporation
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.34.31931,14.34.31931,Microsoft Corporation
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.34.31931,14.34.31931,Microsoft Corporation
+Microsoft Windows Desktop Runtime - 6.0.26 (x64),48.104.6996,Microsoft Corporation
+Microsoft Windows Desktop Runtime - 8.0.11 (x64),64.44.23253,Microsoft Corporation
+Node.js,22.16.0,Microsoft Corporation
+NVIDIA Graphics Driver 573.40,573.4,Node.js Foundation
+NVIDIA Install Application,2.1002.425.0,NVIDIA Corporation
+NVIDIA PhysX System Software 9.21.0713,9.21.0713,NVIDIA Corporation
+NVIDIA Platform Controllers and Framework,535.34,NVIDIA Corporation
+NVIDIA RTX Desktop Manager 204.26,204.26,NVIDIA Corporation
+Office 16 Click-to-Run Extensibility Component,16.0.18925.20184,NVIDIA Corporation
+Office 16 Click-to-Run Licensing Component,16.0.18925.20184,Microsoft Corporation
+Office 16 Click-to-Run Localization Component,16.0.18925.20184,Microsoft Corporation
+Office 16 Click-to-Run Localization Component,16.0.18925.20184,Microsoft Corporation
+Office 16 Click-to-Run Localization Component,16.0.18925.20184,Microsoft Corporation
+PostgreSQL 17,17.5-1,Microsoft Corporation
+Windows Subsystem for Linux,2.5.9.0,PostgreSQL Global Development Group
+Windows Subsystem for Linux Update,5.10.16,Microsoft Corporation
+.NET for Android Templates (x64),35.0.39.0,Microsoft Corporation
+.NET MAUI SDK (x64),8.0.100.0,Microsoft Corporation
+.NET MAUI SDK (x64),9.0.14.0,Microsoft Corporation
+.NET MAUI Templates (x64),8.0.100.0,Microsoft Corporation
+.NET MAUI Templates (x64),9.0.14.0,Microsoft Corporation
+Adobe Acrobat (64-bit),25.001.20531,Microsoft Corporation
+Application Verifier x64 External Package (DesktopEditions),10.1.22621.3233,Adobe
+Application Verifier x64 External Package (OnecoreUAP),10.1.22621.3233,Microsoft
+Docker Desktop,4.42.1,Microsoft
+Fing 3.9.0,3.9.0,Docker Inc.
+Git,2.49.0,Fing Ltd
+Java 8 Update 451 (64-bit),8.0.4510.10,The Git Development Community
+Microsoft .NET 8.0 Templates 8.0.408 (x64),32.11.59749,Oracle Corporation
+Microsoft .NET 9.0 Templates 9.0.203 (x64),36.9.26685,Microsoft Corporation
+Microsoft .NET AppHost Pack - 8.0.15 (x64),64.60.31149,Microsoft Corporation
+Microsoft .NET AppHost Pack - 8.0.15 (x64_arm64),64.60.31149,Microsoft Corporation
+Microsoft .NET AppHost Pack - 8.0.15 (x64_x86),64.60.31149,Microsoft Corporation
+Microsoft .NET AppHost Pack - 9.0.4 (x64),72.16.31125,Microsoft Corporation
+Microsoft .NET AppHost Pack - 9.0.4 (x64_arm64),72.16.31125,Microsoft Corporation
+Microsoft .NET AppHost Pack - 9.0.4 (x64_x86),72.16.31125,Microsoft Corporation
+Microsoft .NET Host - 9.0.4 (x64),72.16.31125,Microsoft Corporation
+Microsoft .NET Host FX Resolver - 9.0.4 (x64),72.16.31125,Microsoft Corporation
+Microsoft .NET Runtime - 8.0.15 (x64),64.60.31149,Microsoft Corporation
+Microsoft .NET Runtime - 9.0.4 (x64),72.16.31125,Microsoft Corporation
+Microsoft .NET SDK 9.0.203 (x64) from Visual Studio,9.2.325.16509,Microsoft Corporation
+Microsoft .NET Standard Targeting Pack - 2.1.0 (x64),24.0.28113,Microsoft Corporation
+Microsoft .NET Targeting Pack - 8.0.15 (x64),64.60.31149,Microsoft Corporation
+Microsoft .NET Targeting Pack - 9.0.4 (x64),72.16.31125,Microsoft Corporation
+Microsoft .NET Toolset 9.0.203 (x64),36.9.59453,Microsoft Corporation
+Microsoft ASP.NET Core 8.0.15 Shared Framework (x64),8.0.15.25165,Microsoft Corporation
+Microsoft ASP.NET Core 8.0.15 Targeting Pack (x64),8.0.15.25165,Microsoft Corporation
+Microsoft ASP.NET Core 9.0.4 Shared Framework (x64),9.0.4.25164,Microsoft Corporation
+Microsoft ASP.NET Core 9.0.4 Targeting Pack (x64),9.0.4.25164,Microsoft Corporation
+Microsoft Azure Authoring Tools - v2.9.7,2.9.8999.45,Microsoft Corporation
+Microsoft Azure Libraries for .NET – v2.9,3.0.2404.2502,Microsoft
+Microsoft Teams Meeting Add-in for Microsoft Office,1.24.31301,Microsoft Corporation
+Microsoft Update Health Tools,5.72.0.0,Microsoft Corporation
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.42.34438,14.42.34438,Microsoft Corporation
+Microsoft Visual C++ 2022 X64 Debug Runtime - 14.42.34438,14.42.34438,Microsoft Corporation
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.42.34438,14.42.34438,Microsoft Corporation
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64),10.0.60915,Microsoft Corporation
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64),10.0.60910,Microsoft Corporation
+Microsoft Visual Studio Installer,3.13.2069.59209,Microsoft Corporation
+Microsoft Web Deploy 4.0,10.0.8305,Microsoft Corporation
+Microsoft Windows Desktop Runtime - 8.0.15 (x64),64.60.31203,Microsoft Corporation
+Microsoft Windows Desktop Runtime - 9.0.4 (x64),72.16.31142,Microsoft Corporation
+Microsoft Windows Desktop Targeting Pack - 8.0.15 (x64),64.60.31203,Microsoft Corporation
+Microsoft Windows Desktop Targeting Pack - 9.0.4 (x64),72.16.31142,Microsoft Corporation
+Microsoft.Android.Ref.35 (x64),35.0.39.0,Microsoft Corporation
+Microsoft.Android.Runtime.35.android-arm (x64),35.0.39.0,Microsoft Corporation
+Microsoft.Android.Runtime.35.android-arm64 (x64),35.0.39.0,Microsoft Corporation
+Microsoft.Android.Runtime.35.android-x64 (x64),35.0.39.0,Microsoft Corporation
+Microsoft.Android.Runtime.35.android-x86 (x64),35.0.39.0,Microsoft Corporation
+Microsoft.Android.Sdk.Windows (x64),34.0.147.0,Microsoft Corporation
+Microsoft.Android.Sdk.Windows (x64),35.0.39.0,Microsoft Corporation
+Microsoft.AspNetCore.Components.WebView.Maui (x64),9.0.14.0,Microsoft Corporation
+Microsoft.iOS.Ref.net9.0_18.2 (x64),18.2.9180.0,Microsoft Corporation
+Microsoft.iOS.Runtime.ios-arm64.net9.0_18.2 (x64),18.2.9180.0,Microsoft Corporation
+Microsoft.iOS.Runtime.iossimulator-arm64.net9.0_18.2 (x64),18.2.9180.0,Microsoft Corporation
+Microsoft.iOS.Runtime.iossimulator-x64.net9.0_18.2 (x64),18.2.9180.0,Microsoft Corporation
+Microsoft.iOS.Sdk.net8.0_17.0 (x64),17.0.8523.0,Microsoft Corporation
+Microsoft.iOS.Sdk.net8.0_18.0 (x64),18.0.8319.0,Microsoft Corporation
+Microsoft.iOS.Sdk.net9.0_18.0 (x64),18.0.9617.0,Microsoft Corporation
+Microsoft.iOS.Sdk.net9.0_18.2 (x64),18.2.9180.0,Microsoft Corporation
+Microsoft.iOS.Templates (x64),18.2.9180.0,Microsoft Corporation
+Microsoft.iOS.Windows.Sdk.net8.0_17.0 (x64),17.0.8523.0,Microsoft Corporation
+Microsoft.iOS.Windows.Sdk.net8.0_18.0 (x64),18.0.8319.0,Microsoft Corporation
+Microsoft.iOS.Windows.Sdk.net9.0_18.0 (x64),18.0.9617.0,Microsoft Corporation
+Microsoft.iOS.Windows.Sdk.net9.0_18.2 (x64),18.2.9180.0,Microsoft Corporation
+Microsoft.MacCatalyst.Ref.net9.0_18.2 (x64),18.2.9180.0,Microsoft Corporation
+Microsoft.MacCatalyst.Runtime.maccatalyst-arm64.net9.0_18.2 (x64),18.2.9180.0,Microsoft Corporation
+Microsoft.MacCatalyst.Runtime.maccatalyst-x64.net9.0_18.2 (x64),18.2.9180.0,Microsoft Corporation
+Microsoft.MacCatalyst.Sdk.net8.0_17.0 (x64),17.0.8523.0,Microsoft Corporation
+Microsoft.MacCatalyst.Sdk.net8.0_18.0 (x64),18.0.8319.0,Microsoft Corporation
+Microsoft.MacCatalyst.Sdk.net9.0_18.0 (x64),18.0.9617.0,Microsoft Corporation
+Microsoft.MacCatalyst.Sdk.net9.0_18.2 (x64),18.2.9180.0,Microsoft Corporation
+Microsoft.MacCatalyst.Templates (x64),18.2.9180.0,Microsoft Corporation
+Microsoft.Maui.Controls (x64),9.0.14.0,Microsoft Corporation
+Microsoft.Maui.Controls.Build.Tasks (x64),9.0.14.0,Microsoft Corporation
+Microsoft.Maui.Controls.Compatibility (x64),9.0.14.0,Microsoft Corporation
+Microsoft.Maui.Controls.Core (x64),9.0.14.0,Microsoft Corporation
+Microsoft.Maui.Controls.Xaml (x64),9.0.14.0,Microsoft Corporation
+Microsoft.Maui.Core (x64),9.0.14.0,Microsoft Corporation
+Microsoft.Maui.Essentials (x64),9.0.14.0,Microsoft Corporation
+Microsoft.Maui.Graphics (x64),9.0.14.0,Microsoft Corporation
+Microsoft.Maui.Graphics.Win2D.WinUI.Desktop (x64),9.0.14.0,Microsoft Corporation
+Microsoft.Maui.Resizetizer (x64),9.0.14.0,Microsoft Corporation
+Microsoft.NET.Runtime.MonoAOTCompiler.Task (x64),8.0.15.0,Microsoft Corporation
+Microsoft.NET.Runtime.MonoAOTCompiler.Task (x64),9.0.4.0,Microsoft Corporation
+Microsoft.NET.Runtime.MonoTargets.Sdk (x64),9.0.4.0,Microsoft Corporation
+Microsoft.NET.Runtime.MonoTargets.Sdk (x64),8.0.15.0,Microsoft Corporation
+Microsoft.NET.Sdk.Android.Manifest-9.0.100 (x64),35.0.39,Microsoft Corporation
+Microsoft.NET.Sdk.Aspire.Manifest-8.0.100 (x64),64.136.23253,Microsoft Corporation
+Microsoft.NET.Sdk.iOS.Manifest-9.0.100 (x64),18.2.9180,Microsoft Corporation
+Microsoft.NET.Sdk.MacCatalyst.Manifest-9.0.100 (x64),18.2.9180,Microsoft Corporation
+Microsoft.NET.Sdk.macOS.Manifest-9.0.100 (x64),15.2.9180,Microsoft Corporation
+Microsoft.NET.Sdk.Maui.Manifest-9.0.100 (x64),9.0.14,Microsoft Corporation
+Microsoft.NET.Sdk.tvOS.Manifest-9.0.100 (x64),18.2.9180,Microsoft Corporation
+Microsoft.NET.Workload.Emscripten.Current.Manifest (x64),72.48.31026,Microsoft Corporation
+Microsoft.NET.Workload.Emscripten.net6.Manifest (x64),72.48.31026,Microsoft Corporation
+Microsoft.NET.Workload.Emscripten.net7.Manifest (x64),72.48.31026,Microsoft Corporation
+Microsoft.NET.Workload.Emscripten.net8.Manifest (x64),72.48.31026,Microsoft Corporation
+Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest (x64),72.0.31125,Microsoft Corporation
+Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest (x64),72.0.31125,Microsoft Corporation
+Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest (x64),72.0.31125,Microsoft Corporation
+Microsoft.NET.Workload.Mono.Toolchain.net8.Manifest (x64),72.0.31125,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-arm (x64),9.0.4.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-arm (x64),8.0.15.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-arm64 (x64),8.0.15.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-arm64 (x64),9.0.4.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-x64 (x64),8.0.15.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-x64 (x64),9.0.4.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-x86 (x64),9.0.4.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-x86 (x64),8.0.15.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.android-arm (x64),9.0.4.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.android-arm (x64),8.0.15.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.android-arm64 (x64),9.0.4.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.android-arm64 (x64),8.0.15.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.android-x64 (x64),8.0.15.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.android-x64 (x64),9.0.4.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.android-x86 (x64),8.0.15.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.android-x86 (x64),9.0.4.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.ios-arm64 (x64),9.0.4.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.ios-arm64 (x64),8.0.15.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.iossimulator-arm64 (x64),8.0.15.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.iossimulator-arm64 (x64),9.0.4.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.iossimulator-x64 (x64),9.0.4.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.iossimulator-x64 (x64),8.0.15.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.maccatalyst-arm64 (x64),8.0.15.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.maccatalyst-arm64 (x64),9.0.4.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.maccatalyst-x64 (x64),8.0.15.0,Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.maccatalyst-x64 (x64),9.0.4.0,Microsoft Corporation
+Node.js,22.14.0,Microsoft Corporation
+Notepad++ (64-bit x64),8.8.1,Microsoft Corporation
+Oracle VirtualBox 7.1.8,7.1.8,Microsoft Corporation
+Python 3.13.2 Core Interpreter (64-bit),3.13.2150.0,Microsoft Corporation
+Python 3.13.2 Development Libraries (64-bit),3.13.2150.0,Microsoft Corporation
+Python 3.13.2 Documentation (64-bit),3.13.2150.0,Microsoft Corporation
+Python 3.13.2 Executables (64-bit),3.13.2150.0,Microsoft Corporation
+Python 3.13.2 pip Bootstrap (64-bit),3.13.2150.0,Microsoft Corporation
+Python 3.13.2 Standard Library (64-bit),3.13.2150.0,Node.js Foundation
+Python 3.13.2 Tcl/Tk Support (64-bit),3.13.2150.0,Notepad++ Team
+Python 3.13.2 Test Suite (64-bit),3.13.2150.0,Oracle and/or its affiliates
+Rancher Desktop,1.19.3,Python Software Foundation
+SteelSeries GG 90.0.0,90.0.0,Python Software Foundation
+Universal CRT Tools x64,10.1.22621.3233,Python Software Foundation
+VS Script Debugging Common,17.0.157.0,Python Software Foundation
+vs_communityx64msi,17.13.35716,Python Software Foundation
+Windows App Certification Kit Native Components,10.1.22621.3233,Python Software Foundation
+Windows SDK DirectX x64 Remote,10.1.22621.3233,Python Software Foundation
+Windows Subsystem for Linux,2.4.13.0,Python Software Foundation
+Workflow Manager Client 1.0,2.1.10525.2,SUSE
+Workflow Manager Tools 1.0 for Visual Studio,17.10.20425.0,SteelSeries ApS
+Docker Desktop,4.42.1,Microsoft Corporation
+Git,2.50.0,Microsoft Corporation
+Microsoft Teams Meeting Add-in for Microsoft Office,1.25.18202,Microsoft Corporation
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.36.32532,14.36.32532,Microsoft Corporation
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.36.32532,14.36.32532,Microsoft Corporation
+Pen Settings Service,7.7.1.86,Microsoft Corporation
+Realtek USB Audio,6.4.0.393,Microsoft Corporation
+SCAP Compliance Checker 5.10.1,5.10.1,Microsoft Corporation
+Wallpaper Engine,,Docker Inc.
+Windows Subsystem for Linux,2.3.26.0,The Git Development Community
+,,Microsoft
+,,Microsoft Corporation
+,,Microsoft Corporation
+,,Wacom Technology Corp.
+,,Realtek Semiconductor Corp.
+,,NIWC Atlantic
+,,Wallpaper Engine Team
+,,Microsoft Corporation
