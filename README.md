@@ -2,9 +2,14 @@ Authors: Aiden, Pablo 9/6/2026, Ray, Mason 9/23/2026
 
 HOW TO USE:
 
-For Windows: Use run.bat
+1. Download using the "Download ZIP" option under the "Code" dropdown
 
-For Linux: Use run.sh
+2. Unzip the file
+
+3. Navigate into the /back-end folder
+
+4. For Windows: Use run.bat
+   For Linux: Use run.sh
 
 
 It will create 2 files in back-end/data folder called battle-lab-SW-parsed.csv and Unclass-software-parsed.csv which contains the list of programs that are expired(or no information found), about to expire(within 3 months), or up to date, and the date of when they expire.
