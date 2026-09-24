@@ -1,4 +1,27 @@
-Authors: Aiden, Pablo 9/6/2026
+Authors: Aiden, Pablo 9/6/2026, Ray, Mason 9/23/2026
+
+HOW TO USE:
+
+1. Download using the "Download ZIP" option under the "Code" dropdown
+
+2. Unzip the file
+
+3. Navigate into the /back-end folder
+
+4. For Windows: Use run.bat
+   For Linux: Use run.sh
+
+
+It will create 2 files in back-end/data folder called battle-lab-SW-parsed.csv and Unclass-software-parsed.csv which contains the list of programs that are expired(or no information found), about to expire(within 3 months), or up to date, and the date of when they expire.
+The terminal outputs a brief overview of the totals per file.
+
+It checks the following locations if anything has a match per entry:
+
+1. A EOS_Report___(month).xlsx excel file downloaded from: https://www.cisecurity.org/insights/blog/end-of-support-software-report-list   This is updated each month and can be redownloaded and swapped over the existing one, it will auto adapt to a new month if given(don't need to rename file).
+2. The given Cert-data.csv
+3. It reaches out to the https://endoflife.date/api/v1/products and checks the names there if any match
+
+
 
 **PROBLEM:**
     Battle lab software is to be tagged when their End-Of-Life date is passed, managing excel/csv files by hand is tedious and can be automated.
